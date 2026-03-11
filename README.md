@@ -22,7 +22,7 @@ To write a program to predict the type of species of the Iris flower using the S
 /*
 Program to implement the prediction of iris species using SGD Classifier.
 Developed by: GRACELIN BENITHA M
-RegisterNumber: 21225040101
+RegisterNumber: 212225040101
 */
 import pandas as pd
 import numpy as np
@@ -97,7 +97,7 @@ print(f"Probability of Placement: {placement_prob[0][1]:.2f}")
 ```
 
 ## Output:
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## Result:
 Thus, the program to implement the prediction of the Iris species using SGD Classifier is written and verified using Python programming.
